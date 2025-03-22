@@ -1,11 +1,13 @@
 # 👋 Hello, I'm Jules ESPINOUX!  
-### 🚀 Passionate about AI, Web, and Mobile Development  
+
+## 🚀 Passionate about AI, Web, and Mobile Development  
+
+I'm a student at ISAE-Supaéro (top 5 engineering school in France). 
+Currently, I am completing a mobile developer internship at Salomon during the second half of my gap year.  
 
 ---
 
-## 🚀 Technical Skills  
-
-# 🛠️ My Tech Stack
+## 🛠️ Technical Skills  
 
 | **Category**         | **Tools**                                                                                     |
 |----------------------|------------------------------------------------------------------------------------------------|
