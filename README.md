@@ -2,8 +2,8 @@
 
 ## Passionate about AI, Web, and Mobile Development  
 
-I'm a student at ISAE-Supaéro (top 5 engineering school in France). 
-Currently, I am completing a mobile developer internship at Salomon during the second half of my gap year.  
+I'm a student at **ISAE-Supaéro** (top 5 engineering school in France). 
+Currently, I am completing a mobile developer internship at **Salomon** during the second half of my gap year.  
 
 I'm looking for an internship of 6 to 8 weeks starting from July 14, 2025.
 
