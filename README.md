@@ -1,7 +1,14 @@
 # Hello, I'm Jules ESPINOUX!  
-
-I'm a student at **ISAE-Supaéro** (top 5 engineering school in France). 
+ 
 Currently, I am completing a software developer internship at **Salomon** during the second half of my gap year.  
+
+I'm an **engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/) (top 5 engineering school in France) in my final year. 🚀
+
+In September, I will follow the **Data and Decision Sciences program**, which is a Master-level specialization in **Data Science, modern Artificial Intelligence and Decision Support**:
+  - Algorithms in Machine Learning (Supervised, unsupervised, deep, and reinforcement learning) 💻
+  - Data Engineering (Data storage, computation, and distribution) 💾
+  - Applied Data Science (Data privacy and ethics, the digital economy, and applications of data science) 📑
+  - Seminars (Seminars from professional experts, training sessions, and challenges) 🏢
 
 ---
 
