@@ -1,6 +1,6 @@
 # Hello, I'm Jules ESPINOUX!  
  
-Currently, I am completing a software developer internship at **Salomon** during the second half of my gap year.  
+Currently, I am completing a software engineer internship at **Salomon** during the second half of my gap year.  
 
 I'm an **engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/) (top 5 engineering school in France) in my final year. 🚀
 
