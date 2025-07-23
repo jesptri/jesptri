@@ -10,7 +10,7 @@ In September, I will follow the **Data and Decision Sciences program**, which is
   - Applied Data Science (Data privacy and ethics, the digital economy, and applications of data science) 📑
   - Seminars (Seminars from professional experts, training sessions, and challenges) 🏢
 
-I will also specialize in the Complex Systems Modeling and Simulation (MSXS) domain, focused on advanced techniques for modeling and analyzing multi-physics, multi-scale systems:
+I will also specialize in the **Complex Systems Modeling and Simulation (MSXS) domain**, focused on advanced techniques for modeling and analyzing multi-physics, multi-scale systems:
   - Multiphysics and multi-scale modeling 🧩
   - High-performance computing (HPC) for scientific simulations ⚡
   - Multidisciplinary optimization and uncertainty quantification 📊
