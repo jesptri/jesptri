@@ -2,7 +2,7 @@
 
 I'm an **engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/) in my final year.
 
-*"Either swimming, cycling, running, or building software."* 
+***"Either swimming, cycling, running, or building software."***
 
 ---
 
