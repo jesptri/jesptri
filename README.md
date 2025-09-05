@@ -2,8 +2,6 @@
 
 I'm a **final-year engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/), specializing in **Data Science and Software Engineering**.  
 
-***"Either swimming, cycling, running, or building software."***
-
 ---
 
 ## 🛠️ My Tech Stack
