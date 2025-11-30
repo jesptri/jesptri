@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Jules ESPINOUX
 
-**Final-year engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/), specializing in **Data Science**.  
+**Final-year engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/), specializing in **Data Science**.
+
+Check out the [Data Science course repository](https://github.com/SupaeroDataScience/) from my program.
 
 ---
 
